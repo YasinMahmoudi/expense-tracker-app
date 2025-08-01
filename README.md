@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://ijob-app.vercel.app/](https://expense-tracker-app-peach-eight.vercel.app/)
+[Click to see demo](https://expense-tracker-app-peach-eight.vercel.app/)
 
 
 <h2>🛠️ Installation Steps:</h2>
